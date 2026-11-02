@@ -1,6 +1,5 @@
 import sys
 import os
-import pygame
 import requests
 
 # 桌面 client 在本機執行，透過這個網址呼叫雲端 FastAPI server。
