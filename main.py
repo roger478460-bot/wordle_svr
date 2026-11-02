@@ -1,3 +1,4 @@
+app = FastAPI()
 import sys
 import os
 import requests
