@@ -14,7 +14,6 @@ COLOR_CORRECT = (83, 141, 78)   # 綠色
 COLOR_PRESENT = (181, 159, 59)  # 黃色
 COLOR_ABSENT = (58, 58, 60)     # 灰色
 
-pygame.init()
 WIDTH, HEIGHT = 500, 650
 screen = pygame.display.set_mode((WIDTH, HEIGHT))
 pygame.display.set_caption("Pygame Wordle + FastAPI Client")
